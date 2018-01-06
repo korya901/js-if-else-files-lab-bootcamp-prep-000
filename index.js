@@ -7,4 +7,4 @@ if (height === 70) {console.log("The height is correct")
 }
 
 // Don't worry about this
-module.exports = { name, height
+module.exports = { name, height}
